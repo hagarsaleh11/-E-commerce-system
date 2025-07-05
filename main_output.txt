@@ -1,0 +1,16 @@
+** Shipment notice **
+2x Cheese 200g
+1x Biscuits 700g
+Total package weight 1.1kg
+** Checkout receipt **
+2x Cheese 200g @ 150 = 300
+1x Biscuits 700g @ 250 = 250
+1x Scratch Card @ 50 = 50
+----------------------
+Subtotal 600
+Shipping 30
+Amount 630
+Balance after payment: 4370
+
+
+** Process exited - Return Code: 0 **
